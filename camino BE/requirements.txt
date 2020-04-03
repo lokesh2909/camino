@@ -71,7 +71,7 @@ pytz==2017.3
 pywin32==227
 pywinpty==0.5.7
 pyzmq==19.0.0
-requests==2.18.4
+requests==2.20.0
 requests-oauthlib==1.3.0
 retrying==1.3.3
 schema==0.7.1
