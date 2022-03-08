@@ -19,7 +19,7 @@ djangorestframework==3.7.3
 easypost==4.0.0
 entrypoints==0.3
 Flask==1.1.1
-httpie==0.9.9
+httpie==3.1.0
 idna==2.6
 importlib-metadata==1.5.0
 ipykernel==5.1.4
